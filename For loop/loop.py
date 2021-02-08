@@ -1,2 +1,4 @@
-for number in range(1,3)
-print(number)
+
+
+for sheeps in range(1, 100+1):
+    print(f"sheep {sheeps}")
